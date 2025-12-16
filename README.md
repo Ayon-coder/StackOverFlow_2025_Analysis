@@ -97,7 +97,6 @@ The project focuses on **real-world data analysis and visualization**, not machi
 ---
 
 ## 📁 Project Structure
-├── survey_results_public_2025.csv
 ├── stackoverflow_2025_analysis.ipynb
 └── README.md
 
