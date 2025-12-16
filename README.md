@@ -108,7 +108,7 @@ The project focuses on **real-world data analysis and visualization**, not machi
 2. Install required libraries:
 pip install pandas matplotlib
 Open the notebook:
-
+("You have to download the survey zip file from official website sorry i can not upload the file")
 jupyter notebook stackoverflow_2025_analysis.ipynb
 👤 Author
 Ayon Sadhukhan
